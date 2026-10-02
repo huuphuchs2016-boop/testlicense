@@ -1,5 +1,7 @@
 {
-  "blocked_machines": [],
+  "blocked_machines": [
+    "D4DD88C4B79D471097F2-E56A901D"
+  ],
   "blocked_licenses": [],
-  "message": "May da bi khoa. Lien he nha cung cap."
+  "message": "May da bi khoa de test. Lien he nha cung cap."
 }
